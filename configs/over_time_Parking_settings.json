@@ -1,0 +1,6 @@
+{
+  "auto_start": false,
+  "interval": 60,
+  "notification_enabled": true,
+  "threshold": 100
+}
